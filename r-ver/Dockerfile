@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:stretch
 
 ARG R_VERSION
 ARG BUILD_DATE
